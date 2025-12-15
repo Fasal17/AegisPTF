@@ -1,0 +1,40 @@
+{
+  "target": "https://www.accenture.com",
+  "headers": {
+    "server": "",
+    "x_powered_by": "",
+    "strict_transport_security": "",
+    "access_control_allow_origin": "",
+    "x_frame_options": "",
+    "content_security_policy": "",
+    "set_cookie": ""
+  },
+  "discovery": {
+    "robots_txt": "User-agent: *\r\nDisallow: */Careers/Registration\r\nDisallow: */Careers/Form\r\nDisallow: */Careers/Profiles\r\nDisallow: */error/\r\nDisallow: */loginpage\r\nDisallow: */sitecore/\r\nDisallow: */BucketContent\r\nDisallow: */RedesignBucket\r\nDisallow: */core/\r\nDisallow: */?sc_lang\r\nDisallow: */secure/\r\nDisallow: */clients/\r\nDisallow: */client/\r\nDisallow: */a-com-no-follow-no-index/\r\nDisallow: */_acnmedia/\r\nDisallow: */_globalreferences/\r\nDisallow: /us-en/careers/admin/careersxmlresult\r\nDisallow: /*/header/global-header/\r\nDisallow: /*.nocache.html\r\nDisallow: */content/acom/\r\nDisallow: /*tlaAppCB\r\nDisallow: */careers/jobsearch?\r\nDisallow: */search/ai-search\r\nDisallow: */search/results\r\nDisallow: /*WHB\r\nDisallow: /*Channel\r\nDisallow: /*channel \r\nDisallow: /*target_id\r\nDisallow: /*utm_source\r\nsitemap: https://www.accenture.com/sitemap-index.xml",
+    "sitemap_xml": "\n<!DOCTYPE HTML>\n<html lang=\"en-US\">\n    <head>\n    <meta charset=\"UTF-8\"/>\n    \n    \n        <title>Page Not Found | Accenture</title>\n    \n    \n    \n    <meta name=\"template\" content=\"rad-template\"/>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>\n    \n\n    <meta name=\"google-site-verification\" content=\"KhlpxClRRelKnb69m3_cQX5HFx3VzpOoG8S--eOI_fE\"/>\n    \n    \n        \n    \n    <script defer type=\"text/javascript\" src=\"/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js\"></script>\n<link rel=\"alternate\" hreflang=\"en-gb\" href=\"https://www.accenture.com/gb-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-hu\" href=\"https://www.accenture.com/hu-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-se\" href=\"https://www.accenture.com/se-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-sa\" href=\"https://www.accenture.com/sa-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-ie\" href=\"https://www.accenture.com/ie-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-nz\" href=\"https://www.accenture.com/nz-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-cz\" href=\"https://www.accenture.com/cz-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-gr\" href=\"https://www.accenture.com/gr-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-us\" href=\"https://www.accenture.com/us-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-dk\" href=\"https://www.accenture.com/dk-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-bg\" href=\"https://www.accenture.com/bg-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-nl\" href=\"https://www.accenture.com/nl-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-in\" href=\"https://www.accenture.com/in-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-ma\" href=\"https://www.accenture.com/ma-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-th\" href=\"https://www.accenture.com/th-en/support/404\"/>\n<link rel=\"alternate\" hreflang=\"en-ch\" href=\"https://www.accenture.com/ch-en/support/404\"/>\n<link rel=\"al",
+    "common_files_found": [
+      "robots.txt"
+    ],
+    "directory_listing": [
+      ""
+    ]
+  },
+  "checks": {
+    "reflected_xss": {
+      "found": false,
+      "snippet": ""
+    },
+    "open_redirects": [
+      ""
+    ],
+    "directory_traversal": [
+      ""
+    ],
+    "sensitive_tokens": [
+      ""
+    ],
+    "cors_policy": "",
+    "tls": "cert_expires: Apr 28 23:59:59 2026 GMT; days_left: 165"
+  },
+  "generated_at": "2025-11-14T05:28:54Z"
+}
